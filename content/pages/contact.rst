@@ -1,12 +1,12 @@
-About
-#####
+Contact Us
+##########
 
 :order: 1
 :date: 2018-01-25 08:46
 :icon: icon-link2
 :summary: Learn about the author of this theme.
 :lang: en
-:slug: about
+:slug: contact
 
 About the author of this theme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
