@@ -38,7 +38,7 @@ HERO = [
     },
     'links': []
   }, {
-    'image': '/images/hero/196.jpg',
+    'image': '/images/hero/skylarks.jpg',
     # keep it a string if you dont need multiple languages
     'title': 'Skylark Fields Farm',
     'text': 'Shuckburgh Rd, Staverton, Daventry NN11 6JY',
