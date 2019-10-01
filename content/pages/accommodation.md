@@ -39,3 +39,5 @@ Summary: Accommodation Information
 [https://www.castlemarinas.co.uk/marinas/wigrams-turn](https://https://www.castlemarinas.co.uk/marinas/wigrams-turn)  
 [01926817175](tel://01926817175)  
 [info@wigramsturnmarina.co.uk](mailto://info@wigramsturnmarina.co.uk)  
+
+If you are Family - Ask around, there is plenty of family locally who might be able to put you up.
