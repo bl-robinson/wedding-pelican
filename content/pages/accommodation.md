@@ -2,6 +2,8 @@ Title: Accommodation
 Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Authors: Ben Robinson
+Summary: Accommodation Information
+
 
 # Staverton Park De Vere Hotel  
 [www.deverevenues.co.uk](http://www.deverevenues.co.uk)  
