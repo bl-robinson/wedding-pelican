@@ -57,7 +57,7 @@ HERO = [
 ]
 
 ABOUT = {
-  'image': '/images/about/about.jpg',
+  'image': '/images/about-us.jpg',
   'mail': 'benr@blrobinson.uk',
   # keep it a string if you dont need multiple languages
   'text': {"en": "If you need to contact us about anything, See this page."},
