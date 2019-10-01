@@ -45,16 +45,14 @@ HERO = [
     'links': []
   },
   {
-    'image': '/images/hero/us3.jpg'
+    'image': '/images/hero/us4.jpg',
+    'title': 'Ceremony at 13:00',
+    'text': ''
   },
   {
-    'image': '/images/hero/us1.jpg'
-  },
-  {
-    'image': '/images/hero/us4.jpg'
-  },
-  {
-    'image': '/images/hero/us5.jpg'
+    'image': '/images/hero/us5.jpg',
+    'title': 'Evening Guests arrive at 18:00',
+    'text':''
   }
 ]
 
