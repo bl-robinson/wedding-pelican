@@ -4,7 +4,6 @@ Modified: 2010-12-05 19:30
 Authors: Ben Robinson
 Summary: Accommodation Information
 
-
 # Staverton Park De Vere Hotel  
 [www.deverevenues.co.uk](http://www.deverevenues.co.uk)  
 [01327 302000](tel:+441327302000) and ask for reservations  
