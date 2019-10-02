@@ -23,7 +23,7 @@ PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['blog']
 
 # logo path, needs to be stored in PATH Setting
-LOGO = '/images/save-the-date2.png'
+LOGO = '/images/save-the-date3.png'
 
 # special content
 HERO = [
