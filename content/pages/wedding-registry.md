@@ -5,7 +5,7 @@ Authors: Ben Robinson
 Summary: Wedding Registry
 
 
-<p style="text-align: center;"> 
+<p style="font-size: 20px; text-align: center;"> 
 
 As we are blessed with material things, and all that living together brings.  
 </br>
@@ -24,10 +24,10 @@ We’d love some pennies to put together, for memories that we will always treas
 </br>  
 Or if you’d rather, it would also mean a lot for a contribution towards our little plot,  
 </br>
-</br>
+</br>  
 We would love to turn our garden into a communal space, for our friends and family to visit us in our tranquil place.  
 </br>
-
+</br>
 We would like to thank you all for being a part of our special day, and will keep you posted of our adventures along the way.  
 
 </p>
